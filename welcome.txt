@@ -3,3 +3,4 @@ Nice to meet you.
 BYE BYE
 welcome!
 creating a new branch is quick and simple.
+branch manage
